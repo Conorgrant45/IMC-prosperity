@@ -3,7 +3,7 @@
 """
 Created on Fri Apr 18 13:46:38 2025
 
-@author: aaroparkkinen
+
 """
 import math
 from typing import List
