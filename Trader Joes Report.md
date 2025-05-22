@@ -170,8 +170,9 @@ non-functional. As a result, we removed the 9500 and 9750 strike options
 from our active strategy for simplicity and to reduce risk of a massive
 loss.
 \
-<img src="images/pandl.png" alt="P&L curve" width="350"/>
-<img src="images/positions.png"   alt="Trade volume" width="600"/>
+<img src="images/pandl.png"     alt="P&L curve" width="350"/>
+<img src="images/positions.png" alt="Positions" width="600"/>
+
 
 
 #### Example day on of our final code
